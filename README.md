@@ -1,4 +1,4 @@
-﻿<div align="center" style="text-align: center">
+<div align="center" style="text-align: center">
 <img src="./hws.jpeg" alt="Open Source Society logo"/>
 <h3>Hack With Suraj Institute of Open Source University</h3>
 </div>
@@ -13,7 +13,7 @@ Welcome to Hack With Suraj Institute of Open Source University
 
 Hello everyone,
 
-I am Suraj Yadav, a professional software engineer with five years of experience and the founder of this university., I embarked on a journey to become a computer scientist through self-directed learning. I have navigated this unconventional path with determination and resilience, transforming my passion for technology into a successful career.
+I am Suraj Yadav, a professional software engineer with five years of experience and the founder of this university. Despite being a 10th-grade dropout, I embarked on a journey to become a computer scientist through self-directed learning. I have navigated this unconventional path with determination and resilience, transforming my passion for technology into a successful career.
 
 At Hack With Suraj Institute of Open Source University, I am committed to sharing my entire self-learning journey with you. I will provide access to all the content, tools, and resources that I utilized to achieve my goals. My aim is to empower and inspire you to forge your own path in the world of technology, regardless of traditional educational backgrounds.
 
@@ -40,36 +40,17 @@ Thank you for choosing Hack With Suraj Institute of Open Source University. We l
   <!-- - [2. Foundational Knowledge Part 2 ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#2-foundational-knowledge-part-2) -->
 <!-- - [2. Basic of CSE  ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#2-basic-of-cse)
   - [1. Basic of CSE Part 1 ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#1-basic-of-cse-part-1)
-  - [2. Basic of CSE Part 2 ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#2-basic-of-cse-part-2)
-- [3. Core Computer Science Concepts](#Introduction-to-CS-part-2)
-  - [1. Core Computer Science Concepts Part 1 ]()
-  - [2. Core Computer Science Concepts Part 2 ]() -->
- 
+  - [2. Basic of CSE Part 2 ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#2-basic-of-cse-part-2)  -->
 
-<!-- - [2. Core Computer Science Concepts part 1 ](#Core-Computer-Science-Concepts-part-1)
-  - [Core programming](#core-programming)
-  - [Core math](#core-math)
-  - [CS Tools](#cs-tools)
-  - [Core systems](#core-systems)
-  - [Core theory](#core-theory)
-  - [Core security](#core-security)
-  - [Core applications](#core-applications)
-  - [Core ethics](#core-ethics)
-- [Advanced CS](#advanced-cs)
-  - [Advanced programming](#advanced-programming)
-  - [Advanced systems](#advanced-systems)
-  - [Advanced theory](#advanced-theory)
-  - [Advanced information security](#advanced-information-security)
-  - [Advanced math](#advanced-math)
-- [Final project](#final-project) -->
+ 
 
 ---
 
-<!-- 
+
 ## Prerequisites
 
 - [2. Basic of CSE ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#1-basic-of-cse)
- assumes the student has already taken  [ College Algebra ](https://www.khanacademy.org/math/college-algebra) And if the student has not done College Algebra then [ Click here ](https://www.khanacademy.org/math/college-algebra) and complete College Algebra by Khan Academy otherwise you can do College Algebra through other platforms like [ edX ](https://edx.org/), [ Coursera ](https://www.coursera.org/) and [ YouTube ](https://www.youtube.com/). -->
+ assumes the student has already taken  [ College Algebra ](https://www.khanacademy.org/math/college-algebra) And if the student has not done College Algebra then [ Click here ](https://www.khanacademy.org/math/college-algebra) and complete College Algebra by Khan Academy otherwise you can do College Algebra through other platforms like [ edX ](https://edx.org/), [ Coursera ](https://www.coursera.org/) and [ YouTube ](https://www.youtube.com/).
 
 
 ## 1. Foundational Knowledge 
@@ -114,3 +95,4 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Cloud Native, DevOps, Agile, and NoSQL By IBM  ](https://www.coursera.org/learn/cloud-native-devops-agile-nosql) | 12 hours (approximately) Try to Cover in 3 days | - | Fundamental knowledge of web development(HTML,CSS,JS)  | [chat](https://discord.com/channels/1252208976309784747/1253397677761106025)
 [Intro To Containers w/ Docker, Kubernetes & OpenShift By IBM ](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift) | 13 hours (approximately) Try to Cover in 4 days | - | Basic understanding of cloud and programming concepts.  | [chat](https://discord.com/channels/1252208976309784747/1253398969279840398)
 [Software Developer Career Guide and Interview Preparation By IBM ](https://www.coursera.org/learn/software-developer-career-guide-and-interview-preparation) | 11 hours (approximately) Try to Cover in 2 days | - | None  | [chat](https://discord.com/channels/1252208976309784747/1253399791405371484)
+[Basic Mathematics ](https://www.coursera.org/learn/basicmathematics/) | 27 hours | 3 weeks at 9 hours a week | None  | [chat](https://discord.com/channels/1252208976309784747/1262110925318783036)
