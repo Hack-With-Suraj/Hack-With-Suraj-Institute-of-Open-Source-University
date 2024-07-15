@@ -97,6 +97,12 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Software Developer Career Guide and Interview Preparation By IBM ](https://www.coursera.org/learn/software-developer-career-guide-and-interview-preparation) | 11 hours (approximately) Try to Cover in 2 days | - | None  | [chat](https://discord.com/channels/1252208976309784747/1253399791405371484)
 [Basic Mathematics ](https://www.coursera.org/learn/basicmathematics/) | 27 hours | 3 weeks at 9 hours a week | None  | [chat](https://discord.com/channels/1252208976309784747/1262110925318783036)
 
+
+Books| 
+:-- | :--:
+[Eloquent JavaScript](https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf) 
+
+
 <!-- 
 #### 2. Back-End Devlopment
 
