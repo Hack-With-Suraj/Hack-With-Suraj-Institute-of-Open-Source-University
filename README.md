@@ -37,7 +37,7 @@ Thank you for choosing Hack With Suraj Institute of Open Source University. We l
 - [Prerequisites](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#prerequisites)
 - [1. Foundational Knowledge ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#1-foundational-knowledge)
   - [1. Foundational Knowledge Part 1 ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#1-foundational-knowledge-part-1)
-  <!-- - [2. Foundational Knowledge Part 2 ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#2-foundational-knowledge-part-2) -->
+  - [2. Foundational Knowledge Part 2 ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#2-foundational-knowledge-part-2)
 <!-- - [2. Basic of CSE  ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#2-basic-of-cse)
   - [1. Basic of CSE Part 1 ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#1-basic-of-cse-part-1)
   - [2. Basic of CSE Part 2 ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#2-basic-of-cse-part-2)  -->
@@ -82,20 +82,20 @@ Thank you for choosing Hack With Suraj Institute of Open Source University. We l
 `Application development`
 `Unit Testing`
 
-Courses | Duration | Effort | Books (not required to purchase pdf available) | Prerequisites | Discussion
+Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Introduction to HTML5 By University of Michigan ](https://www.coursera.org/learn/html) | 11 hours (approximately) | 3 weeks ( Try to Cover in 2 weeks ) | | None | [chat](https://discord.com/channels/1252208976309784747/1252213545118994565)
-[Introduction to CSS3 By University of Michigan ](https://www.coursera.org/learn/introcss) | 16 hours (approximately) | 5 weeks ( Try to Cover in 3 weeks ) | | None | [chat](https://discord.com/channels/1252208976309784747/1252213794269171792)
+[Introduction to HTML5 By University of Michigan ](https://www.coursera.org/learn/html) | 11 hours (approximately) | 3 weeks ( Try to Cover in 2 weeks ) | None | [chat](https://discord.com/channels/1252208976309784747/1252213545118994565)
+[Introduction to CSS3 By University of Michigan ](https://www.coursera.org/learn/introcss) | 16 hours (approximately) | 5 weeks ( Try to Cover in 3 weeks ) | None | [chat](https://discord.com/channels/1252208976309784747/1252213794269171792)
 [Programming with JavaScript By Meta ](https://www.coursera.org/learn/programming-with-javascript) | 42 hours (approximately) | - | None | [chat](https://discord.com/channels/1252208976309784747/1252213898426318899)
-[Developing Websites and Front-Ends with Bootstrap By IBM ](https://www.coursera.org/learn/developing-websites-and-front-ends-with-bootstrap) | 7 hours (approximately) Try to Cover in 2 days | - | | None | [chat](https://discord.com/channels/1252208976309784747/1252213954198110289)
+[Developing Websites and Front-Ends with Bootstrap By IBM ](https://www.coursera.org/learn/developing-websites-and-front-ends-with-bootstrap) | 7 hours (approximately) Try to Cover in 2 days | - | None | [chat](https://discord.com/channels/1252208976309784747/1252213954198110289)
 [Git And Github ](https://www.coursera.org/learn/git-for-beginners) | 7 hours (approximately) Try to Cover in 2 days |-|  None | [chat](https://discord.com/channels/1252208976309784747/1252214006350090330)
-[React Basics By Meta ](https://www.coursera.org/learn/react-basics) | 26 hours (approximately) Try to Cover in 5 days | - | | None | [chat](https://discord.com/channels/1252208976309784747/1252214077519036457)
-[Advanced React By Meta ](https://www.coursera.org/learn/advanced-react) | 26 hours (approximately) Try to Cover in 5 days | - | |  None | [chat](https://discord.com/channels/1252208976309784747/1252214132007239824)
-[Designs and Prototypes in Figma By Google ](https://www.coursera.org/learn/high-fidelity-designs-prototype) | 29 hours (approximately) Try to Cover in 6 days | - | | None | [chat](https://discord.com/channels/1252208976309784747/1253396698340917290)
-[Cloud Native, DevOps, Agile, and NoSQL By IBM  ](https://www.coursera.org/learn/cloud-native-devops-agile-nosql) | 12 hours (approximately) Try to Cover in 3 days | - | | Fundamental knowledge of web development(HTML,CSS,JS)  | [chat](https://discord.com/channels/1252208976309784747/1253397677761106025)
+[React Basics By Meta ](https://www.coursera.org/learn/react-basics) | 26 hours (approximately) Try to Cover in 5 days | - | None | [chat](https://discord.com/channels/1252208976309784747/1252214077519036457)
+[Advanced React By Meta ](https://www.coursera.org/learn/advanced-react) | 26 hours (approximately) Try to Cover in 5 days | - | None | [chat](https://discord.com/channels/1252208976309784747/1252214132007239824)
+[Designs and Prototypes in Figma By Google ](https://www.coursera.org/learn/high-fidelity-designs-prototype) | 29 hours (approximately) Try to Cover in 6 days | - | None | [chat](https://discord.com/channels/1252208976309784747/1253396698340917290)
+[Cloud Native, DevOps, Agile, and NoSQL By IBM  ](https://www.coursera.org/learn/cloud-native-devops-agile-nosql) | 12 hours (approximately) Try to Cover in 3 days | - | Fundamental knowledge of web development(HTML,CSS,JS)  | [chat](https://discord.com/channels/1252208976309784747/1253397677761106025)
 [Intro To Containers w/ Docker, Kubernetes & OpenShift By IBM ](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift) | 13 hours (approximately) Try to Cover in 4 days | - | Basic understanding of cloud and programming concepts.  | [chat](https://discord.com/channels/1252208976309784747/1253398969279840398)
-[Software Developer Career Guide and Interview Preparation By IBM ](https://www.coursera.org/learn/software-developer-career-guide-and-interview-preparation) | 11 hours (approximately) Try to Cover in 2 days | - | | None  | [chat](https://discord.com/channels/1252208976309784747/1253399791405371484)
-[Basic Mathematics ](https://www.coursera.org/learn/basicmathematics/) | 27 hours | 3 weeks at 9 hours a week | | None  | [chat](https://discord.com/channels/1252208976309784747/1262110925318783036)
+[Software Developer Career Guide and Interview Preparation By IBM ](https://www.coursera.org/learn/software-developer-career-guide-and-interview-preparation) | 11 hours (approximately) Try to Cover in 2 days | - | None  | [chat](https://discord.com/channels/1252208976309784747/1253399791405371484)
+[Basic Mathematics ](https://www.coursera.org/learn/basicmathematics/) | 27 hours | 3 weeks at 9 hours a week | None  | [chat](https://discord.com/channels/1252208976309784747/1262110925318783036)
 
 <!-- 
 #### 2. Back-End Devlopment
