@@ -98,9 +98,8 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Basic Mathematics ](https://www.coursera.org/learn/basicmathematics/) | 27 hours | 3 weeks at 9 hours a week | None  | [chat](https://discord.com/channels/1252208976309784747/1262110925318783036)
 
 
-Books| 
-:-- | :--:
-[Eloquent JavaScript](https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf) 
+<h1>Books :- </h1>
+[1.Eloquent JavaScript](https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf) 
 
 
 <!-- 
