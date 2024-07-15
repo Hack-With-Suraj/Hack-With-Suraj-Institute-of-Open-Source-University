@@ -99,7 +99,7 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 
 <h1>Books :- </h1>
-1.Eloquent JavaScript:- https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf
+1.Eloquent JavaScript:- https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf <br>
 2.Pro Git:- https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf
 3. Fullstack React:- https://demo.smarttrainerlms.com/uploads/0003/trainings/course/45/modules/fullstack-react-book-r30_1510302324482009603.pdf
 
