@@ -49,7 +49,7 @@ Thank you for choosing Hack With Suraj Institute of Open Source University. We l
 
 ## Prerequisites
 
-- [2. Basic of CSE ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#1-basic-of-cse)
+- [Future Education ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#1-basic-of-cse)
  assumes the student has already taken  [ College Algebra ](https://www.khanacademy.org/math/college-algebra) And if the student has not done College Algebra then [ Click here ](https://www.khanacademy.org/math/college-algebra) and complete College Algebra by Khan Academy otherwise you can do College Algebra through other platforms like [ edX ](https://edx.org/), [ Coursera ](https://www.coursera.org/) and [ YouTube ](https://www.youtube.com/).
 
 
