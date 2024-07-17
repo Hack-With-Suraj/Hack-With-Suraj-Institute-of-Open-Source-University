@@ -13,7 +13,7 @@ Welcome to Hack With Suraj Institute of Open Source University
 
 Hello everyone,
 
-I am Suraj Yadav, a professional software engineer with five years of experience and the founder of this university. Despite being a 10th-grade dropout, I embarked on a journey to become a computer scientist through self-directed learning. I have navigated this unconventional path with determination and resilience, transforming my passion for technology into a successful career.
+I am Suraj Yadav, a professional software engineer with five years of experience and the founder of this university. I embarked on a journey to become a computer scientist through self-directed learning. I have navigated this unconventional path with determination and resilience, transforming my passion for technology into a successful career.
 
 At Hack With Suraj Institute of Open Source University, I am committed to sharing my entire self-learning journey with you. I will provide access to all the content, tools, and resources that I utilized to achieve my goals. My aim is to empower and inspire you to forge your own path in the world of technology, regardless of traditional educational backgrounds.
 
