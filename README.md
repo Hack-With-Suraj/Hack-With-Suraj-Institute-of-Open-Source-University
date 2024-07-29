@@ -12,23 +12,35 @@
 Welcome to Hack With Suraj Institute of Open Source University
 
 Hello everyone,
-
-I am Suraj Yadav, a professional software engineer with five years of experience and the founder of this university. I embarked on a journey to become a computer scientist through self-directed learning. I have navigated this unconventional path with determination and resilience, transforming my passion for technology into a successful career.
+I am Suraj Yadav, a senior software engineer with five years of experience and the founder of this university. I embarked on a journey to become a computer scientist through self-directed learning. With determination and resilience, I transformed my passion for technology into a successful career.
 
 At Hack With Suraj Institute of Open Source University, I am committed to sharing my entire self-learning journey with you. I will provide access to all the content, tools, and resources that I utilized to achieve my goals. My aim is to empower and inspire you to forge your own path in the world of technology, regardless of traditional educational backgrounds.
 
 Join me as I share the lessons from my failures and successes, and guide you through the steps that led me to where I am today. Together, we will explore the vast possibilities of self-directed learning and open-source technology, paving the way for your success in the field of computer science.
 
+**What You Will Learn at This University ?**
+If you want to learn the latest technologies and aspire to become a computer scientist, but find it challenging to gain admission to your preferred college, or if you recognize that traditional degree curriculums may not fully prepare you for today's technological landscape, this university is for you. Here, you will learn from the best professors and with the most up-to-date curriculum designed to equip you with the skills necessary to become a computer scientist.
+
+**Can This Curriculum Help You Become a Software Engineer ?**
+Yes, absolutely. The curriculum at Hack With Suraj Institute of Open Source University is meticulously designed to provide you with the foundational knowledge and practical skills required to excel as a software engineer. By following this curriculum, you will gain hands-on experience with the latest technologies, programming languages, and development frameworks that are highly sought after in the software industry.
+
+Our courses emphasize real-world applications and problem-solving, ensuring that you are well-prepared for the challenges and opportunities that come with a career in software engineering. Whether you are starting from scratch or looking to enhance your existing skills, our curriculum is tailored to help you achieve your goals and succeed in the dynamic field of software engineering.
+
+**Is This Curriculum Free?**
+Yes, all the curriculum offered at Hack With Suraj Institute of Open Source University is completely free. This includes everything you need to become a computer scientist and a professional software engineer.
+
+**What is reason this Curriculum is free ?** 
+The reason for this is rooted in my own experiences. As the founder, I faced significant difficulties in finding quality knowledge to become a competent software engineer. The outdated curriculums offered by many colleges do not adequately prepare students for the demands of the software industry. Additionally, the high costs of college education make it inaccessible for many aspiring engineers. Even those who manage to secure admission often find that their education does not equip them with the necessary skills, leading them to seek knowledge online, wasting valuable time in the process.
+
+To address these issues, I have created this free curriculum to ensure that everyone has the opportunity to receive a quality education. By offering all content for free, I aim to solve these problems and provide a pathway for aspiring software engineers to succeed without the financial and educational barriers traditionally associated with college education.
+
 **Organization**. The curriculum is designed as follows:
 - *Foundational Knowledge*: To help students understand about CSE and understand the basics of the field of CSE and create dual level projects and understand how the software industry works.
-<!-- - *Basic of CSE*: To understand the real requirement of Mathematics and Physics to become a Computer Scientist and to get the first stop in the journey of becoming a Computer Scientist by self-learning path. -->
 
+We are trying to find the next best free course If you have any best free course or want to contribute to this university then feel free to contribute to this university
+Our mission is to provide a free, world-class education to anyone, anywhere.
 
-
-
-**Cost** At HSIOSU, we believe in making education accessible to all. While some courses may incur costs for graded assignments or projects, we encourage students to decide how much or how little to spend based on their own time and budget constraints. Remember, success cannot simply be purchased – dedication, effort, and perseverance are the true currencies of achievement in your educational journey.
-
-Thank you for choosing Hack With Suraj Institute of Open Source University. We look forward to embarking on this educational journey with you!
+Hack with Suraj Institute of Open Source University is a non-profit organization. Donate today!
 
 
 # Curriculum
@@ -38,19 +50,8 @@ Thank you for choosing Hack With Suraj Institute of Open Source University. We l
 - [1. Foundational Knowledge ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#1-foundational-knowledge)
   - [1. Foundational Knowledge Part 1 ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#1-foundational-knowledge-part-1)
   - [2. Foundational Knowledge Part 2 ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#2-foundational-knowledge-part-2)
-<!-- - [2. Basic of CSE  ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#2-basic-of-cse)
-  - [1. Basic of CSE Part 1 ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#1-basic-of-cse-part-1)
-  - [2. Basic of CSE Part 2 ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#2-basic-of-cse-part-2)  -->
-
- 
 
 ---
-
-
-## Prerequisites
-
-- [Future Education ](https://github.com/Hack-With-Suraj/Hack-With-Suraj-Institute-of-Open-Source-University?tab=readme-ov-file#1-basic-of-cse)
- assumes the student has already taken  [ College Algebra ](https://www.khanacademy.org/math/college-algebra) And if the student has not done College Algebra then [ Click here ](https://www.khanacademy.org/math/college-algebra) and complete College Algebra by Khan Academy otherwise you can do College Algebra through other platforms like [ edX ](https://edx.org/), [ Coursera ](https://www.coursera.org/) and [ YouTube ](https://www.youtube.com/).
 
 
 ## 1. Foundational Knowledge 
@@ -99,215 +100,10 @@ Courses | Duration | Effort | Prerequisites | Discussion
 
 
 <h1>Books :- </h1>
-1.Eloquent JavaScript:- https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf <br>
-2.Pro Git:- https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf<br>
-3. Fullstack React:- https://demo.smarttrainerlms.com/uploads/0003/trainings/course/45/modules/fullstack-react-book-r30_1510302324482009603.pdf <br>
-
-
-<!-- 
-#### 2. Back-End Devlopment
-
-**Topics covered**:
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Back-End Developer Professional by Meta](https://www.coursera.org/professional-certificates/meta-back-end-developer) | 5 months  | 14 hours a week | None | [chat](https://discord.gg/syA242Z)
-
-
-
-## 2. Foundational Knowledge Part 2
-
-**Topics covered**:
-`Introduction to Programming (python)`
-`Calculus and Linear Algebra`
-`Mechanics, thermodynamics, waves`
-`Basic Electronics`
-`Communication Skills`
-
-#### 1. Introduction to Programming (python)
-
-**Topics covered**:
-`Json`
-`Xml`
-`Database (DBMS)`
-`Simple Algorithm`
-`Python Programming`
-`Problem Solving`
-`Computation`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Python for Everybody Specialization By Charles Russell Severance](https://www.coursera.org/specializations/python) | 2 months | 10 hours a week | None | [chat](https://discord.gg/syA242Z)
-[Computational Thinking for Problem Solving By Susan Davidson](https://www.coursera.org/learn/computational-thinking-problem-solving) | 3 weeks |  6 hours a week | None | [chat](https://discord.gg/syA242Z)
-
-#### 2. Mathematics I : Calculus and Linear Algebra
-
-**Topics covered**:
-`logic`
-`Mathematics`
-`Calculus`
-`Matrix Analysis`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Introduction to Calculus By the university of Sydney](https://www.coursera.org/learn/introduction-to-calculus) | 3 weeks | 19 hours a week | none | [chat](https://discord.gg/syA242Z)
-[Linear Algebra from Elementary to Advanced Specialization By Johns Hopkins University ](https://www.coursera.org/specializations/linear-algebra-elementary-to-advanced) | 1 month | 10 hours a week | [Completion of College Algebra](https://www.khanacademy.org/math/college-algebra) | [chat](https://discord.gg/syA242Z)
-
-#### 2. Physics for Engineers I
-
-**Topics covered**:
-`Mechanics`
-`thermodynamics`
-`waves`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Introduction to Mechanics Specialization By Rice University ](https://www.coursera.org/specializations/introduction-to-mechanics) | 2 months | 10 hours a week | good understanding of algebra, geometry, and trigonometry | [chat](https://discord.gg/syA242Z)
-[Energy and Thermodynamics By Harvard University ](https://www.classcentral.com/course/chemistry-harvard-university-energy-and-thermodyn-61435) | 10 week | 4-8 hours a week | None | [chat](https://discord.gg/syA242Z)
-[Waves By Dr Juan Klopper ](https://www.classcentral.com/course/youtube-physics-waves-90893) | 11 hours| - | None | [chat](https://discord.gg/syA242Z)
-
-#### 3. Communication Skills
-
-**Topics covered**:
-`Oral Communication for Engineering Leaders`
-`Interpersonal Communication for Engineering Leaders`
-`Writing Skills for Engineering Leaders`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Communication Skills for Engineers Specialization By Rice University ](https://www.coursera.org/specializations/leadership-communication-engineers#courses) | 2 month | 10 hours a week | None | [chat](https://discord.gg/syA242Z)
+1.Eloquent JavaScript:- https://eloquentjavascript.net/Eloquent_JavaScript_small.pdf
+2.Pro Git:- https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf
+3. Fullstack React:- https://demo.smarttrainerlms.com/uploads/0003/trainings/course/45/modules/fullstack-react-book-r30_1510302324482009603.pdf
 
 
 
 
-
-
-
-
-## 2. Basic of CSE 
-
-### 1. Basic of CSE Part 1
-
-**Topics covered**:
-`Introduction to Programming (python)`
-`Calculus and Linear Algebra`
-`Mechanics, thermodynamics, waves`
-`Basic Electronics`
-`Communication Skills`
-
-#### 1. Introduction to Programming (python)
-
-**Topics covered**:
-`Json`
-`Xml`
-`Database (DBMS)`
-`Simple Algorithm`
-`Python Programming`
-`Problem Solving`
-`Computation`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Python for Everybody Specialization By Charles Russell Severance](https://www.coursera.org/specializations/python) | 2 months | 10 hours a week | None | [chat](https://discord.gg/syA242Z)
-[Computational Thinking for Problem Solving By Susan Davidson](https://www.coursera.org/learn/computational-thinking-problem-solving) | 3 weeks |  6 hours a week | None | [chat](https://discord.gg/syA242Z)
-
-#### 2. Mathematics I : Calculus and Linear Algebra
-
-**Topics covered**:
-`logic`
-`Mathematics`
-`Calculus`
-`Matrix Analysis`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Introduction to Calculus By the university of Sydney](https://www.coursera.org/learn/introduction-to-calculus) | 3 weeks | 19 hours a week | none | [chat](https://discord.gg/syA242Z)
-[Linear Algebra from Elementary to Advanced Specialization By Johns Hopkins University ](https://www.coursera.org/specializations/linear-algebra-elementary-to-advanced) | 1 month | 10 hours a week | [Completion of College Algebra](https://www.khanacademy.org/math/college-algebra) | [chat](https://discord.gg/syA242Z)
-
-#### 2. Physics for Engineers I
-
-**Topics covered**:
-`Mechanics`
-`thermodynamics`
-`waves`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Introduction to Mechanics Specialization By Rice University ](https://www.coursera.org/specializations/introduction-to-mechanics) | 2 months | 10 hours a week | good understanding of algebra, geometry, and trigonometry | [chat](https://discord.gg/syA242Z)
-[Energy and Thermodynamics By Harvard University ](https://www.classcentral.com/course/chemistry-harvard-university-energy-and-thermodyn-61435) | 10 week | 4-8 hours a week | None | [chat](https://discord.gg/syA242Z)
-[Waves By Dr Juan Klopper ](https://www.classcentral.com/course/youtube-physics-waves-90893) | 11 hours| - | None | [chat](https://discord.gg/syA242Z)
-
-#### 3. Communication Skills
-
-**Topics covered**:
-`Oral Communication for Engineering Leaders`
-`Interpersonal Communication for Engineering Leaders`
-`Writing Skills for Engineering Leaders`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Communication Skills for Engineers Specialization By Rice University ](https://www.coursera.org/specializations/leadership-communication-engineers#courses) | 2 month | 10 hours a week | None | [chat](https://discord.gg/syA242Z)
-
-
-### 2. Basic of CSE Part 2
-
-**Topics covered**:
-`Introduction to Programming (python)`
-`Calculus and Linear Algebra`
-`Mechanics, thermodynamics, waves`
-`Basic Electronics`
-`Communication Skills`
-
-#### 1. Introduction to Programming (python)
-
-**Topics covered**:
-`Json`
-`Xml`
-`Database (DBMS)`
-`Simple Algorithm`
-`Python Programming`
-`Problem Solving`
-`Computation`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Python for Everybody Specialization By Charles Russell Severance](https://www.coursera.org/specializations/python) | 2 months | 10 hours a week | None | [chat](https://discord.gg/syA242Z)
-[Computational Thinking for Problem Solving By Susan Davidson](https://www.coursera.org/learn/computational-thinking-problem-solving) | 3 weeks |  6 hours a week | None | [chat](https://discord.gg/syA242Z)
-
-#### 2. Mathematics I : Calculus and Linear Algebra
-
-**Topics covered**:
-`logic`
-`Mathematics`
-`Calculus`
-`Matrix Analysis`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Introduction to Calculus By the university of Sydney](https://www.coursera.org/learn/introduction-to-calculus) | 3 weeks | 19 hours a week | none | [chat](https://discord.gg/syA242Z)
-[Linear Algebra from Elementary to Advanced Specialization By Johns Hopkins University ](https://www.coursera.org/specializations/linear-algebra-elementary-to-advanced) | 1 month | 10 hours a week | [Completion of College Algebra](https://www.khanacademy.org/math/college-algebra) | [chat](https://discord.gg/syA242Z)
-
-#### 2. Physics for Engineers I
-
-**Topics covered**:
-`Mechanics`
-`thermodynamics`
-`waves`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Introduction to Mechanics Specialization By Rice University ](https://www.coursera.org/specializations/introduction-to-mechanics) | 2 months | 10 hours a week | good understanding of algebra, geometry, and trigonometry | [chat](https://discord.gg/syA242Z)
-[Energy and Thermodynamics By Harvard University ](https://www.classcentral.com/course/chemistry-harvard-university-energy-and-thermodyn-61435) | 10 week | 4-8 hours a week | None | [chat](https://discord.gg/syA242Z)
-[Waves By Dr Juan Klopper ](https://www.classcentral.com/course/youtube-physics-waves-90893) | 11 hours| - | None | [chat](https://discord.gg/syA242Z)
-
-#### 3. Communication Skills
-
-**Topics covered**:
-`Oral Communication for Engineering Leaders`
-`Interpersonal Communication for Engineering Leaders`
-`Writing Skills for Engineering Leaders`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Communication Skills for Engineers Specialization By Rice University ](https://www.coursera.org/specializations/leadership-communication-engineers#courses) | 2 month | 10 hours a week | None | [chat](https://discord.gg/syA242Z)
- -->
